@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "LetItHappennnnn.aternos.me",
-    "port": 27586,
+    "port": 52679,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Sup guys",
+        "I like mommies"
       ]
     },
     "chat-log": true,
