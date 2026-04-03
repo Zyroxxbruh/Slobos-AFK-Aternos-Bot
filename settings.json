@@ -9,7 +9,7 @@
     "ip": "LetItHappennnnn.aternos.me",
     "port": 52679,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -17,11 +17,6 @@
     "y": 100,
     "z": 0
   },
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
-    },
     "anti-afk": {
       "enabled": true,
       "sneak": true
