@@ -9,7 +9,7 @@
     "ip": "LetItHappennnnn.aternos.me",
     "port": 52679,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -29,14 +29,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 100,
       "messages": [
         "Sup guys",
         "I like mommies"
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
