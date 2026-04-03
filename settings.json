@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LetItHappennnnn.aternos.me",
+    "ip": "LetItHapennnnn.aternos.me",
     "port": 52679,
     "version": "",
     "try-creative": false
@@ -17,6 +17,11 @@
     "y": 100,
     "z": 0
   },
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "chalol78"
+    },
     "anti-afk": {
       "enabled": true,
       "sneak": true
@@ -24,10 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 100,
+      "repeat-delay": 120,
       "messages": [
-        "Sup guys",
-        "I like mommies"
+        "Sup chat",
+        "Wanna play valo?",
+        "I love neon"
       ]
     },
     "chat-log": true,
